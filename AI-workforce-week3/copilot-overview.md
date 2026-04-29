@@ -6,7 +6,7 @@ It doesn’t replace your thinking; it supports it by summarizing, drafting, ana
 
 Copilot depends on **your identity** (who you are in Microsoft Entra ID), so it knows *which* Copilot you are allowed to use.  
 
-It depends on **your data**—emails, files, chats, meetings—but only the ones stored in Microsoft 365 and relevant to your work.  
+It depends on **your data** such as emails, files, chats, meetings, but only the ones stored in Microsoft 365 and relevant to your work.  
 
 Most importantly, it depends on **permissions**: Copilot can only see what you are already allowed to see, nothing more.  
 
