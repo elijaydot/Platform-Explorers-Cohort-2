@@ -185,6 +185,6 @@ Think of EliSoft as your **helpful teammate** in the admin console — always re
 
 ---
 
-![alt text](assets/<EliSoft Exchange Admin Helper -Icon.png>)
+![alt text](assets/EliSoft_Exchange_Admin_Helper_Icon.png)
 
 > 🖼️ *Final agent icon (EliSoft Exchange Admin Helper)*
