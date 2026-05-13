@@ -64,7 +64,7 @@ To address the issues observed during testing—specifically the off-topic wande
 - **Mandatory Interaction Tone:** I changed the closing instruction to a `MANDATORY CLOSING`. This ensures that every response, regardless of the prompt complexity, maintains the supportive and encouraging persona we designed.
 - **Prioritized Image Branding:** The instruction for image tagging was re-worded as a mandatory safety requirement to ensure the "EliSoft" branding is consistently applied during image generation.
 
-![alt text](image-8.png)
+![alt text](assets/image-8.png)
 
 ![alt text](assets/image-9.png)
 
